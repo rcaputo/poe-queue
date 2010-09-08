@@ -1,4 +1,3 @@
-# $Id$
 # Copyrights and documentation are at the end.
 
 package POE::Queue::PriorityHeap;

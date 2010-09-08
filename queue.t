@@ -1,5 +1,3 @@
-# $Id$
-
 # Various basic queue tests.
 
 use Test::More tests => 1072;
